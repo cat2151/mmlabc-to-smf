@@ -21,7 +21,6 @@ This project converts Music Macro Language format strings into Standard MIDI Fil
 
 - Python 3.8 or higher
 - mido (Python MIDI library)
-- tree-sitter (Parser library)
 
 ## Installation
 
