@@ -125,4 +125,4 @@ python -m unittest tests.test_integration
 
 詳細はLICENSEファイルを参照してください。
 
-※英語版README.mdは、README.ja.mdを元にAI翻訳により生成する予定です
+※英語版README.mdは、README.ja.mdを元にGeminiの翻訳でGitHub Actionsにより自動生成しています
