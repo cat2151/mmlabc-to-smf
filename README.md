@@ -7,6 +7,12 @@ A conversion tool from Music Macro Language (MML) to Standard MIDI File (SMF)
   <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸-English-blue.svg" alt="English"></a>
 </p>
 
+## 状況
+
+アーカイブします。後継のRust版を開発します。
+
+このリポジトリの用途は、Pythonによる最低限の参考用のコードを提供する用です。
+
 ## Overview
 
 This project converts Music Macro Language strings into Standard MIDI Files using a 4-pass architecture with comprehensive debug output.
